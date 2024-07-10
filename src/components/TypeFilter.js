@@ -1,4 +1,4 @@
-// src/components/TypeFilter.js
+
 import React, { useEffect, useState } from 'react';
 import { fetchTypes } from '../api';
 
